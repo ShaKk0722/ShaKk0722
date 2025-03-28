@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ShaKk0722</h1>
+<h3 align="center">A passionate full-stack developer from VietNam</h3>
+<h4 align="center">Discover myself with coding</h4>
 
-<!--
-**ShaKk0722/ShaKk0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently studying Computer Science at [VNU-HCMUT](https://hcmut.edu.vn/)
+- 🌱 I’m currently learning **ReactJs, Express**
+- 👨‍💻 All of my projects are available at [https://github.com/ShaKk0722](https://github.com/ShaKk0722)
+- 📫 How to reach me: **duythaithanh2004@gmail.com**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shakk0722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biottttttttt" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ShaKk0722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="absievill" height="30" width="40" /></a>
+</p>
